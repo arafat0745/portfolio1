@@ -1,0 +1,101 @@
+ .header{
+  background-image: url('../portfolio-resources/images/developer.png'), url('../portfolio-resources/images/header_bg.png');
+  background-position: top left, bottom right;
+  background-repeat: no-repeat;
+ }
+body{
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.btn-primary{
+  background-color: #FD6E0A;
+  font-weight: bold;
+  font-size: 20px;
+  color:white;
+  padding: 18px 35px 19px 43px;
+  border-radius: 10px;
+  border-color: #FD6E0A;
+  border: none;
+  
+  
+
+
+}
+
+
+.dark-2{
+  color:#474747 ;
+}
+
+
+nav ul{
+  display: flex;
+  align-items: center;
+}
+
+nav li{
+  margin: 27px;
+}
+
+
+.oswald-normal {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight: 400px;>;
+  font-style: normal;
+}
+
+
+/* nav styel */
+nav{
+    display: flex;
+    align-items:center ;
+    justify-content:space-between ;
+    margin: 0px 200px;
+}
+
+
+.nav-title{
+   font-weight: 800px;
+   font-size: 45px;
+}
+
+
+nav ul li{
+  list-style: none;
+}
+
+
+nav ul li a{
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* banner style */
+.banner-greetings{
+  font-size: 45px;
+  font-weight: 600px;
+}
+.banner-title{
+  font-size: 85px;
+  font-weight: 850px;
+}
+
+.banner-content{
+  max-width: 580px;
+}
+
+
+.banner-pic{
+  width: 584px;
+  height: 676px;
+}
+.dark-3{
+  color: #757575;
+}
+.banner{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 40px 0px 200px;
+}
