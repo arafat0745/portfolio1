@@ -39,12 +39,6 @@ nav li{
 }
 
 
-.oswald-normal {
-  font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight: 400px;>;
-  font-style: normal;
-}
 
 
 /* nav styel */
@@ -99,3 +93,8 @@ nav ul li a{
   justify-content: space-between;
   margin: 0px 40px 0px 200px;
 }
+
+.banner-pic{
+  background: none;
+}
+ 
